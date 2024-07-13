@@ -1,5 +1,10 @@
 # Musical-Instrument-Separator-UNet
 A deep learning project using the U-Net model to accurately separate individual musical instruments from audio recordings.
+
+![screenshot](musdb.png)
+
+
+
 ## About the project
  Most of the present solutions that exist for the source separation problem are based on taking the Fourier Transform of the audio, studying the characteristic frequency spectrum 
  of a particular source type , then masking that particular band out. In computer vision U-Nets have been used for a while 
