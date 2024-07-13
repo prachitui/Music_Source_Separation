@@ -5,7 +5,7 @@ A deep learning project using the U-Net model to accurately separate individual 
  of a particular source type , then masking that particular band out. In computer vision U-Nets have been used for a while 
  for Image Segmentation problems , but not much work has been done on U-Nets being used for audio datasets . Since in a way thinking about source separation problem , I segmented
  the different frequency bands of the audio sample ,
- hence I felt that U-Nets could be potentially useful for source separation problem too. 
+ hence I felt that U-Nets could be potentially useful for source separation problem too. So I decided to give my own novel and naive innovation an attempt .
 
  ## Result
  Here is the result I [achieved](https://github.com/prachitui/Musical_Instrument_Separation/blob/main/Results_MIS.wav).
